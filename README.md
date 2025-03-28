@@ -22,7 +22,7 @@ significantly improve the learning of S-R associations without directly manipula
 Block 1 - Practice
 Blocks 2-9 - Training
 Block 10 - Transfer
-Block 11 - Questionnaire
+Block 12 - Questionnaire
 
 _Exp 2_ 
 Participants responded with either the right index or middle on a serial response box to two face stimuli shown on a computer screen. During training half of the stimulus pairs yielded a reward if performed correctly within the 3 second trial limit, while the remaining chords only yielded positive feedback if performed correctly  within the time limit. Incorrect or late repsonses yielded negative feedback. The sole transfer block was identical to the training blocks except that feedback was not given. The questionnaire was identical to Experiment 1
