@@ -27,19 +27,10 @@ Block 11 - Questionnaire
 _Exp 1_ 
 Participants made synchronous bimanual responses with one finger of each hand (chords) on a standard qwerty keyboard in response to two face stimuli shown on a computer screen. The left-hand responses corresponded to the identify of the left stimulus and the right-hand responses to the right stimulus. During training half of the chords yielded a reward if performed correctly within the 3 second trial limit, while the remaining chords only yielded positive feedback if performed correctly within the time limit. Incorrect or late repsonses yielded negative feedback. The sole transfer block was identical to the training blocks except that 1) chords withheld from training were introduced alongside the already practed Rewarded and Unrewarded chords, and 2) feedback was not given. The questionnaire was divided into two parts. The first part asked participants to rate their awareness of which stimulus pairs were associated with rewards. The second part required participants to label each stimulus pair experienced during training as either rewarded or unrewarded. 
 
-_Exp 2_ 
-Participants responded with either the right index or middle on a serial response box to two face stimuli shown on a computer screen. During training half of the stimulus pairs yielded a reward if performed correctly within the 3 second trial limit, while the remaining chords only yielded positive feedback if performed correctly  within the time limit. Incorrect or late repsonses yielded negative feedback. The sole transfer block was identical to the training blocks except that feedback was not given. The questionnaire was identical to Experiment 1
-
-The data (Incidental_Rewarded_Learning.csv) and code (Exp_1.Rmd and Exp2.Rmd) provided are intended to be used in the R coding environment. The R-markdown file includes the following analyses:
+The data (Incidental_Rewarded_Learning_Exp1.csv) and code (Exp_1_X.R) provided are intended to be used in a Jupyter notebook or the R coding environment.
 
 **Exp1**
-1. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (before rewards).
-2. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (after rewards).
-3. Transfer - One-sample, two-tailed t-tests contrasting RT and accuracy between Rewarded, Unrewarded, and Withheld Chords.
-4. Questionnaire - Pearson's correlations between subjective and force-choiced measures of explicit awareness and learning
-
-**Exp2**
-1. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (before rewards).
-2. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (after rewards).
-3. Transfer - One-sample, two-tailed t-tests contrasting RT and accuracy between Rewarded and Unrewarded pairs.
-4. Questionnaire - Pearson's correlations between subjective and force-choiced measures of explicit awareness and learning 
+1. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (before rewards: Exp1_TrainRT and Exp1_TrainAcc).
+2. Training - Non-linear modeling of reaction time (RT) and accuracy (proportion correct) data across blocks (after rewards: Exp1_TrainAfterRT and Exp1_TrainAfterAcc).
+3. Transfer - One-sample, two-tailed t-tests contrasting RT and accuracy between Rewarded, Unrewarded, and Withheld Chords (Incidental_Rewarded_Learning_Exp1.ipynb).
+4. Questionnaire - Pearson's correlations between subjective and force-choiced measures of explicit awareness and learning (Incidental_Rewarded_Learning_Exp1.ipynb).
