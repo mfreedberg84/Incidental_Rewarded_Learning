@@ -18,11 +18,11 @@ rewarded associations or improved motor learning. These results indicate that re
 significantly improve the learning of S-R associations without directly manipulating top– down factors.
 
 **Experimental Design**
-11 Blocks:
+14 Blocks:
 Block 1 - Practice
 Blocks 2-9 - Training
 Block 10 - Transfer
-Block 11 - Questionnaire
+Block 14 - Questionnaire
 
 _Exp 1_ 
 Participants made synchronous bimanual responses with one finger of each hand (chords) on a standard qwerty keyboard in response to two face stimuli shown on a computer screen. The left-hand responses corresponded to the identify of the left stimulus and the right-hand responses to the right stimulus. During training half of the chords yielded a reward if performed correctly within the 3 second trial limit, while the remaining chords only yielded positive feedback if performed correctly within the time limit. Incorrect or late repsonses yielded negative feedback. The sole transfer block was identical to the training blocks except that 1) chords withheld from training were introduced alongside the already practed Rewarded and Unrewarded chords, and 2) feedback was not given. The questionnaire was divided into two parts. The first part asked participants to rate their awareness of which stimulus pairs were associated with rewards. The second part required participants to label each stimulus pair experienced during training as either rewarded or unrewarded. 
